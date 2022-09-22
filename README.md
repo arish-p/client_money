@@ -16,9 +16,10 @@
 
 
 
-#### 1. Главная страница.
+#### 2. Профиль.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![profile](https://user-images.githubusercontent.com/113469837/191835372-eb9f9f60-4be9-4169-95d1-751a205c5670.jpg)
+
 
 
 #### 1. Главная страница.
