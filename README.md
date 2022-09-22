@@ -22,40 +22,32 @@
 
 
 
+#### 3. Страница перевода.
 
-#### 1. Главная страница.
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-#### 1. Главная страница.
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![send](https://user-images.githubusercontent.com/113469837/191835669-0de2b5d5-99a1-401a-9770-2361f5f9fb3c.jpg)
 
 
-#### 1. Главная страница.
+#### 4. Заполненная страница перевода.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-#### 1. Главная страница.
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![send2](https://user-images.githubusercontent.com/113469837/191835818-ccfca5a2-d596-4278-a203-8c0673749a9c.jpg)
 
 
-#### 1. Главная страница.
+#### 5. Страница с настройками
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-#### 1. Главная страница.
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![settings](https://user-images.githubusercontent.com/113469837/191835903-adb8365f-c9a6-4a7c-a3e0-d13d46d8cb0e.jpg)
 
 
-#### 1. Главная страница.
+#### 6. Статус перевода.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![status](https://user-images.githubusercontent.com/113469837/191835962-89203c35-2655-4f05-96ba-70fc532ef7cc.jpg)
+
+
+
+#### 7. Функция в разработке.
+
+![future](https://user-images.githubusercontent.com/113469837/191836039-4055ec31-dd6e-4d7f-975d-529cfcf46177.jpg)
+
+
 
 
 
