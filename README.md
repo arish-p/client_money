@@ -48,6 +48,8 @@
 ![future](https://user-images.githubusercontent.com/113469837/191836039-4055ec31-dd6e-4d7f-975d-529cfcf46177.jpg)
 
 
+### В проекте используются пакеты
 
-
+    1. firebase_auth https://pub.dev/packages/firebase_auth
+    2. intl: https://pub.dev/packages/intl
 
