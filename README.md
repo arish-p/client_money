@@ -18,7 +18,8 @@
 
 #### 2. Профиль.
 
-![profile](https://user-images.githubusercontent.com/113469837/191835372-eb9f9f60-4be9-4169-95d1-751a205c5670.jpg)
+![profile](https://user-images.githubusercontent.com/113469837/191835543-88d7c2c2-641b-4679-9842-8ef4b8def098.jpg)
+
 
 
 
