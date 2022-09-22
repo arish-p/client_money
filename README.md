@@ -10,7 +10,7 @@
 
 #### 1. Главная страница.
 
-![App Screenshot](![mainScreen](https://user-images.githubusercontent.com/113469837/191831573-8c449925-eb4f-499b-9376-3a5036dd2f8b.jpg)
+!(![Главный экран](https://user-images.githubusercontent.com/113469837/191831573-8c449925-eb4f-499b-9376-3a5036dd2f8b.jpg)
 
 
 
